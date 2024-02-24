@@ -1,2 +1,2 @@
-# Benois
+# Benoït
 Site vitrine en React
